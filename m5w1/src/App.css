@@ -1,5 +1,16 @@
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+.card-img{
+  height: 350px;
+}
+
+.card-title{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
