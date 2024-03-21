@@ -1,8 +1,8 @@
 import './App.css';
-import MyNav from './MyNav';
-import Welcome from './Welcome';
-import AllTheBooks from './AllTheBooks';
-import MyFooter from './MyFooter';
+import MyNav from './components/MyNav';
+import Welcome from './components/Welcome';
+import AllTheBooks from './components/AllTheBooks';
+import MyFooter from './components/MyFooter';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/esm/Container';
 
